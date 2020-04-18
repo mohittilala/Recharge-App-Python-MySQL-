@@ -22,3 +22,18 @@ List of implemented libraries as follows:
 
 It is reqired to install all this libraries to use this application.
 
+## Getting Started
+
+First of you must have given user in MySQL server.
+
+**username**: mohit
+
+**password**: mohit
+
+If you don't have this user then create one, else app can not access your database.
+
+Now, You need to execute queries.sql in MySQL server for first time only to create database and reqiured table to run this application.
+
+After a successful of execution of queries.sql, open main.py to run main interface.
+
+Enjoy!:wink:
