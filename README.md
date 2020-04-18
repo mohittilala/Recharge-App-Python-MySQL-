@@ -2,7 +2,7 @@
 
 ## Overview
 
-It is GUI application. It is based on local mysql server and written in python. We have implemented many functionalities which is similar to the online recharge apps.
+It is GUI application based on local mysql server and written in python. Application has many functionalities which is similar to the online recharge apps. There is both admin side and user side in it.
 
 ## Prerequisites
 
@@ -35,5 +35,11 @@ If you don't have this user then create one, else app can not access your databa
 Now, You need to execute queries.sql in MySQL server for first time only to create database and reqiured table to run this application.
 
 After a successful of execution of queries.sql, open main.py to run main interface.
+
+For admin login:
+
+**username**: admin
+
+**password**: admin@123
 
 Enjoy!:wink:
